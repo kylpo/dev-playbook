@@ -7,8 +7,8 @@
 ```
 
 # CLI
-- `tree`
-  - Easily visualize your render tree, thanks to our component architecture
+#### `tree`
+Easily visualize your render tree, thanks to our component architecture
 
 ```
 $ tree app/scenes
@@ -25,5 +25,7 @@ app/scenes/
 └── package.json
 ```
 
-- `flow`
-  - run `flow check` to type-check your Flow annotated code
+#### `ranger`
+File explorer with vim keybindings
+
+![](http://ranger.nongnu.org/screenshots/screenshot1.png)
