@@ -1,4 +1,4 @@
-# [kylpo's](https://twitter.com/kylpo) Dev Playbook
+# [kylpo](https://twitter.com/kylpo)'s Dev Playbook
 Styles, Conventions, Rules, Tips, and Tools!
 
 ## Table of contents
