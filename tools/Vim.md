@@ -26,6 +26,8 @@ I want to fuzzy-open easily from my open buffers, not just the recent 10 files I
 And, no, I don't have any loyalty to vim or feel like my Schwartz is bigger than other nerds for using it. If this buffer/split/fileexplorer combination became available to vscode, I'd be there in a heart beat! Of course, then I might find something else that I miss too much from vim, like FZF, full control via keyboard, etc...
 
 
+Vim tabs are like Mac's Spaces and virtual desktops. Splits are like windows, but they can show any of your apps - almost like tabbed browsers. In your split is an active buffer, which is like an open app. Open other apps with spotlight.
+
 https://www.reddit.com/r/vim/comments/6axcij/spacevim_tabs_managersupport_fold_tabs/
 
 [bagrat/vim-workspace: IDE-like Vim tabline](https://github.com/bagrat/vim-workspace)

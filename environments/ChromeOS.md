@@ -7,5 +7,17 @@ _Work in Progress_
 - [Android Development on Chrome OS (Example)](https://coderwall.com/p/fv0xrq/android-development-on-chrome-os)
 - [Instant tethering is coming to Chrome OS to make it easier to get online | TechRadar](http://www.techradar.com/news/instant-tethering-is-coming-to-chrome-os-to-make-it-easier-to-get-online)
 
-- [How to get Google Now in your Chromebook Start menu - TechRepublic](https://www.techrepublic.com/article/pro-tip-get-google-now-in-your-chromebook-start-menu/)
+# Hotkeys
+- `Ctrl Alt /` - open keyboard shortcut cheat sheet
+![](https://www.howtogeek.com/wp-content/uploads/2014/05/chrome-os-keyboard-shortcut-cheat-sheet.png)
+- `Ctrl Shift l` - lock screen
+- `Alt e` - open menu
+- `Alt 1-8` - launch/focus pinned application (in bottom shelf)
+- `Shift Esc` - launch Task Manager
+- `Alt [` - dock window to left
+- `Alt ]` - dock window to right
+
+# Dev setup
 - [Visual Studio Code for Chromebooks and Raspberry Pi](https://code.headmelted.com/)
+
+# Settings
