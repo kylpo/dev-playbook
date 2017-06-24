@@ -32,6 +32,8 @@ https://www.reddit.com/r/vim/comments/6axcij/spacevim_tabs_managersupport_fold_t
 
 [bagrat/vim-workspace: IDE-like Vim tabline](https://github.com/bagrat/vim-workspace)
 
+[Vim Tab Madness. Buffers vs Tabs - Josh Davis](http://joshldavis.com/2014/04/05/vim-tab-madness-buffers-vs-tabs/)
+
 # Oni
 - https://github.com/extr0py/oni#configuration
 - https://github.com/extr0py/oni/blob/master/browser/src/Config.ts#L34
@@ -75,3 +77,9 @@ Wrap w/ tag:
 
 # tmux integration
 - https://blog.bugsnag.com/tmux-and-vim/
+
+# Dotfiles to copy
+- [wincent](https://github.com/wincent/wincent/tree/7f3f2717dad2c9bb7c14ad568d5b68babc2bf1a3/roles/dotfiles/files/.vim)
+- [hendriklammers](https://github.com/hendriklammers/dotfiles/blob/master/.vimrc)
+- [zperrault](https://github.com/zperrault/vimrc.js?utm_campaign=React%2BNewsletter&utm_medium=email&utm_source=React_Newsletter_43)
+- [BobWhitelock](https://github.com/BobWhitelock/dotfiles/blob/master/vimrc)

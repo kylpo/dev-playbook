@@ -3,7 +3,7 @@ Styles, Conventions, Rules, Tips, and Tools!
 
 ## Table of contents
 - Tips
-  - [How I Stay Informed as a Developer](https://github.com/kylpo/dev-playbook/blob/master/tips/How-I-Stay-Informed-as-a-Developer.md) - [Post](https://medium.com/@kylpo/how-i-stay-informed-as-a-developer-1fb3eaf043c3)
+  - [How I Stay Informed as a Developer](https://github.com/kylpo/dev-playbook/blob/master/tips/How-I-Stay-Informed-as-a-Developer.md) - [[Post](https://medium.com/@kylpo/how-i-stay-informed-as-a-developer-1fb3eaf043c3)]
 - Notes
   - [FGQ (Frequently *Googled* Questions)](https://github.com/kylpo/dev-playbook/blob/master/notes/FGQ.md)
   - [Terms and Definitions](https://github.com/kylpo/dev-playbook/blob/master/notes/terms.md)
