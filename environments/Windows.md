@@ -8,10 +8,15 @@
 - [Neovim on Twitter: "#neovim 0.2 is out: https://t.co/PAWUEgPT8M * Official Windows support * Pre-build macOS package * :terminal improvements * ... and more!"](https://twitter.com/Neovim/status/859317754687631361)
 - [johnlindquist ✌ on Twitter: "@reybango @rauchg @freebly @_developit @msdev @Microsoft @surface @richturn_ms In your `.hyper.js` (which is the hyper settings file) change the shell to "shell: 'c:\\windows\\System32\\bash.exe'," https://t.co/YSJOvDCFPP"](https://twitter.com/johnlindquist/status/859864517672488960)
 - [Setting up a Shiny Development Environment within Linux on Windows 10 - Scott Hanselman](https://www.hanselman.com/blog/SettingUpAShinyDevelopmentEnvironmentWithinLinuxOnWindows10.aspx)
+- [Max Stoiber on Twitter: "@yosefdurr If anybody has tips for must-have Windows apps (Mac/Rocket-like emoji keyboard?!) please let me know! #maxgoeswindows"](https://twitter.com/mxstbr/status/878380743595929600)
 
 # Familiar to MacOS
-- [hainproject/hain: An 'alt+space' launcher for Windows, built with Electron](https://github.com/hainproject/hain)
-  - ![](http://hainproject.github.io/hain/images/demo.gif)
+- Spotlight
+  - [hainproject/hain: An 'alt+space' launcher for Windows, built with Electron](https://github.com/hainproject/hain)
+    - ![](http://hainproject.github.io/hain/images/demo.gif)
+  - [Wox-launcher/Wox: Launcher for Windows, an alternative to Alfred and Launchy.](https://github.com/Wox-launcher/Wox)
+    - ![](https://camo.githubusercontent.com/9db33546d3a905a9ad915e0948d3ba3f47f57b64/687474703a2f2f692e696d6775722e636f6d2f4474784e424a692e676966)
+  - [Keypirinha](http://keypirinha.com/)
 - [Add An OS X Like File Preview Feature To Windows 10](http://www.addictivetips.com/windows-tips/add-an-os-x-like-file-preview-feature-to-windows-10/?utm_source=feedburner&utm_medium=twitter&utm_campaign=Feed%3A+Addictivetips+%28AddictiveTips%29)
 - [Jason Miller 🦊⚛ on Twitter: "People switching to Windows 10 from MacOS: Install this and bind it to ctrl + space. You're welcome. https://t.co/rWAHHsflAF"](https://twitter.com/_developit/status/859791623638716417)
 - OS-level emacs keybinds (like MacOS)
