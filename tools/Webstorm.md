@@ -6,3 +6,5 @@ _WIP_
 - Recent Positions: `cmd [` to go back, `cmd ]` to go forward
 - Recent Files
 - use the Navigation Bar
+
+[Kye Hohenberger on Twitter: "This is really cool. @WebStormIDE import autocomplete works so well I hardly noticed it the first time. https://t.co/Tne3w1IywX"](https://twitter.com/tkh44/status/878368684850520064)
