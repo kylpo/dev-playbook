@@ -6,6 +6,7 @@ Styles, Conventions, Rules, Tips, and Tools!
   - [How I Stay Informed as a Developer](https://github.com/kylpo/dev-playbook/blob/master/tips/How-I-Stay-Informed-as-a-Developer.md) - [[post](https://medium.com/@kylpo/how-i-stay-informed-as-a-developer-1fb3eaf043c3)]
 - Notes
   - [FGQ (Frequently *Googled* Questions)](https://github.com/kylpo/dev-playbook/blob/master/notes/FGQ.md)
+  - [Computer Science Concepts](https://github.com/kylpo/dev-playbook/blob/master/notes/computer-science-concepts.md)
   - [Terms and Definitions](https://github.com/kylpo/dev-playbook/blob/master/notes/terms.md)
 - Tools
   - [Atom](https://github.com/kylpo/dev-playbook/blob/master/tools/Atom.md)
