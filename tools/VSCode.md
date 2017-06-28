@@ -64,6 +64,9 @@ OR just copy/paste, then rename the file without this extension
 #### [Markdown Navigate](https://marketplace.visualstudio.com/items?itemName=jrieken.md-navigate)
 ![](https://raw.githubusercontent.com/jrieken/md-navigate/master/demo.gif)
 
+#### [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
+![](https://github.com/pranaygp/vscode-css-peek/raw/master/images/working.gif)
+
 
 ## Editing Plugins
 #### [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
@@ -103,8 +106,13 @@ Highlight `TODO`, `FIXME` or any annotations within your code.
 
 
 ## Tools
-#### [vscode-chrome-debug: Debug your JavaScript code running in Google Chrome from VS Code.](https://github.com/Microsoft/vscode-chrome-debug)
+#### [vscode-chrome-debug](https://github.com/Microsoft/vscode-chrome-debug)
+Debug your JavaScript code running in Google Chrome from VS Code.
 
+#### [Color Info](https://marketplace.visualstudio.com/items?itemName=bierner.color-info)
+Provides additional information about css colors.
+
+![](https://github.com/mattbierner/vscode-color-info/raw/master/media/starter-example.png)
 
 ## Vim
 #### Why VSCode instead of Vim?
