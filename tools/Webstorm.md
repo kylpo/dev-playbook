@@ -8,3 +8,5 @@ _WIP_
 - use the Navigation Bar
 
 [Kye Hohenberger on Twitter: "This is really cool. @WebStormIDE import autocomplete works so well I hardly noticed it the first time. https://t.co/Tne3w1IywX"](https://twitter.com/tkh44/status/878368684850520064)
+
+Customize syntax highlighting to support template literals (I think) - [Webstorm, IntelliJ 등의 JetBrains IDE에서 styled-components 사용하기](https://medium.com/@iamssen/webstorm-intellij-%EB%93%B1%EC%9D%98-jetbrains-ide%EC%97%90%EC%84%9C-styled-components-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-b0bc79418e1f)
