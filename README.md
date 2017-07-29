@@ -15,9 +15,9 @@ Styles, Conventions, Rules, Tips, and Tools!
   - [Webstorm](https://github.com/kylpo/dev-playbook/blob/master/tools/Webstorm.md)
   - [CLI](https://github.com/kylpo/dev-playbook/blob/master/tools/CLI.md)
 - Environments
-  - [MacOS](https://github.com/kylpo/dev-playbook/blob/master/environments/MacOS.md) - work in progress
+  - [Mac](https://github.com/kylpo/dev-playbook/blob/master/environments/Mac.md)
   - [Windows](https://github.com/kylpo/dev-playbook/blob/master/environments/Windows.md) - work in progress
-  - [ChromeOS](https://github.com/kylpo/dev-playbook/blob/master/environments/ChromeOS.md) - work in progress
+  - [Chrome (and ChromeOS)](https://github.com/kylpo/dev-playbook/blob/master/environments/Chrome.md) - work in progress
 
 ## Like this playbook? Maybe you'll like the other ones, too!
 - [React Playbook](https://github.com/kylpo/react-playbook)
