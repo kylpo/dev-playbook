@@ -28,6 +28,8 @@ And, no, I don't have any loyalty to vim or feel like my Schwartz is bigger than
 
 Vim tabs are like Mac's Spaces and virtual desktops. Splits are like windows, but they can show any of your apps - almost like tabbed browsers. In your split is an active buffer, which is like an open app. Open other apps with spotlight.
 
+Oh, I also like... Projectionist, ace-mode, macros, the dot operator, ag, pattern folding, ...(add all others)
+
 https://www.reddit.com/r/vim/comments/6axcij/spacevim_tabs_managersupport_fold_tabs/
 
 [bagrat/vim-workspace: IDE-like Vim tabline](https://github.com/bagrat/vim-workspace)

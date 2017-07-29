@@ -27,6 +27,8 @@
 - [How to Disable Animations in Windows (and Make It Feel Faster)](http://lifehacker.com/how-to-disable-animations-in-windows-and-make-it-feel-1728734414)
 - [Audit and Optimize your Windows 10 Search Indexing Options - Scott Hanselman](https://www.hanselman.com/blog/AuditAndOptimizeYourWindows10SearchIndexingOptions.aspx)
 - [How to Disable All of Windows 10’s Built-in Advertising](https://www.howtogeek.com/269331/how-to-disable-all-of-windows-10s-built-in-advertising/)
+- "If you haven't already, I highly recommend you configure Hey Cortana to respond only to your voice" - [Jen Gentleman 🌺 on Twitter](https://twitter.com/JenMsft/status/890410962200678400)
+  - ![](https://pbs.twimg.com/media/DFtfc_0VoAEUEL1.png)
 
 # Tools
 - [Microsoft Snip brings Windows screenshots to life with voice and ink](https://www.theverge.com/2015/8/27/9214079/microsoft-snip-windows-screenshot-tool)
