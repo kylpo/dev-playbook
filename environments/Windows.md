@@ -11,6 +11,7 @@
 - [Max Stoiber on Twitter: "@yosefdurr If anybody has tips for must-have Windows apps (Mac/Rocket-like emoji keyboard?!) please let me know! #maxgoeswindows"](https://twitter.com/mxstbr/status/878380743595929600)
 
 # Familiar to MacOS
+- [Essential apps for switching from Mac to Windows - Charged](https://char.gd/blog/2017/essential-apps-for-switching-from-mac-to-windows)
 - Spotlight
   - [hainproject/hain: An 'alt+space' launcher for Windows, built with Electron](https://github.com/hainproject/hain)
     - ![](http://hainproject.github.io/hain/images/demo.gif)
