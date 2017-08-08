@@ -1,5 +1,7 @@
 _Work in Progress_
 
+[Why I Still Use Vim – freeCodeCamp](https://medium.freecodecamp.org/why-i-still-use-vim-67afd76b4db6)
+
 ```
 ._____           _     
 |_   _|__   ___ | |___

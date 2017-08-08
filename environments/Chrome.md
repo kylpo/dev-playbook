@@ -52,6 +52,7 @@ _Work in Progress_
 - `Alt ]` - dock window to right
 
 ## Dev setup
+- [My $169 development Chromebook](https://blog.lessonslearned.org/building-a-more-secure-development-chromebook/)
 - From [Visual Studio Code for Chromebooks and Raspberry Pi](https://code.headmelted.com/)
   - Put your Chromebook into [developer mode](https://www.chromium.org/chromium-os/chromiumos-design-docs/developer-mode).
   - Install the [crouton extension](https://chrome.google.com/webstore/detail/crouton-integration/gcpneefbbnfalgjniomfjknbcgkbijom) from the Chrome Web Store.
