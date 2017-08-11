@@ -53,6 +53,8 @@ _Work in Progress_
 
 ## Dev setup
 - [My $169 development Chromebook](https://blog.lessonslearned.org/building-a-more-secure-development-chromebook/)
+  - It all boils down to using [Termux](https://termux.com/) for an amazing terminal experience for ChromeOS and Android.
+    - Only pain point for me is `ctrl-n` to go down an entry will always open a new tab in ChromeOS. This is not overridable :(
 - From [Visual Studio Code for Chromebooks and Raspberry Pi](https://code.headmelted.com/)
   - Put your Chromebook into [developer mode](https://www.chromium.org/chromium-os/chromiumos-design-docs/developer-mode).
   - Install the [crouton extension](https://chrome.google.com/webstore/detail/crouton-integration/gcpneefbbnfalgjniomfjknbcgkbijom) from the Chrome Web Store.
