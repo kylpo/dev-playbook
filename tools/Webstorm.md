@@ -1,5 +1,8 @@
 _WIP_
 
+## Hotkeys
+Be sure to start with a `Keymap` that you like. I prefer `Emacs`.
+
 [No Tabs in IntelliJ IDEA – Hadi Hariri](http://hadihariri.com/2014/06/24/no-tabs-in-intellij-idea/)
 - Hide tabs
 - use ctrl-tab to switch buffers
