@@ -1,5 +1,3 @@
-_Work in Progress_
-
 # Menubar plugins
 - [Itsycal](https://www.mowglii.com/itsycal/)
 ![](https://www.mowglii.com/itsycal/itsycalbanner2@2x.png)
@@ -11,6 +9,7 @@ _Work in Progress_
 - Use Spaces
   - `ctrl 1-5` to switch to them
   - `Mission Control` -> `Displays have separate Spaces` enabled
+  - `Mission Control` -> uncheck `Automaticcaly rearrange Spaces based on most recent use`
 - [Moom](https://manytricks.com/moom/) to move/position windows
 
   I use a 8 x 4 grid where:
@@ -43,9 +42,6 @@ _Work in Progress_
 
   `O` - right 2/3
 
-- [Witch](https://manytricks.com/witch/)
-  - `cmd tab` like Windows to see all windows in an app, too (no `cmd ~` needed!)
-  - I choose `Show list on **main display**` to filter apps to current Screen
 - Hot Corners
   - Bottom Left corner `Put Display to Sleep` for quick screen locking
 
@@ -58,34 +54,19 @@ _Work in Progress_
 - [Alfred - Productivity App for Mac OS X](https://www.alfredapp.com/) is just better
   - More predictive results. My main pain point of Spotlight is that I'll type in text, it shows the result I want, then as I go to press `return`, it switches to another result. SO frustrating.
 
-# Keyboard Setup
-- [osx - How to disable typing special characters when pressing option key in Mac OS X? - Stack Overflow](https://stackoverflow.com/questions/11876485/how-to-disable-typing-special-characters-when-pressing-option-key-in-mac-os-x)
-- "CHECK THIS BOX. Use your tab key constantly to move between controls. Learn ^a, ^e, ^f, ^b, alt-BS in text boxes." - [Gary Bernhardt](https://twitter.com/garybernhardt/status/891440300731662336)
-- ![](https://pbs.twimg.com/media/DF8HE6KXoAASOgw.png)
-
-## Key Remapping
-Use [tekezo/Karabiner-Elements: The next generation Karabiner for macOS Sierra](https://github.com/tekezo/Karabiner-Elements)
-
-I like the following configs (be sure to enable `Show icon in menu bar` to toggle these):
-
-**Mac Keyboards Profile**
-
-`caps_lock` => `left_command`
-
-`left_command` => `left_control`
-
-`right_command` => `right_option`
-
-`right_option` => `right_control`
-
-**Microsoft Keyboards Profile**
-
-`caps_lock` => `left_command`
-
-`left_command` => `left_option`
-
-`left_option` => `left_control`
-
+# Familiar to MS Windows
+- [Witch](https://manytricks.com/witch/)
+  - For a `cmd tab` like Windows to see all windows in an app, too (no `cmd ~` needed!)
+  - My preferred settings:
+    - `Cycle Windows`, Sort by `Window Activity`, Orientation `->`
+    - Uncheck `List windows from all spaces` to filter apps to current Screen
+    - Uncheck `List apps without windows` to ignore things like `Finder` when there are no open windows.
+- [HyperDock](https://bahoom.com/hyperdock/)
+  - Drag window to left or right to size it
+  - Hover previews and controls in Dock
+  - ![](https://bahoom.com/media/window_previews.png?1307272642)
+- [Snap](https://itunes.apple.com/us/app/snap/id418073146?mt=12)
+  - Launch apps from Dock with `cmd 1-9`
 
 # Media
 - [beardedspice/beardedspice: Mac Media Keys for the Masses](https://github.com/beardedspice/beardedspice) allows me to tolerate browser-based media players, which means I no longer need to open itunes!
@@ -102,3 +83,31 @@ I like the following configs (be sure to enable `Show icon in menu bar` to toggl
 
 # Other Apps
 - [Tweetbot for Mac](https://tapbots.com/tweetbot/mac/) for Twitter
+
+# Keyboard Setup
+- [osx - How to disable typing special characters when pressing option key in Mac OS X? - Stack Overflow](https://stackoverflow.com/questions/11876485/how-to-disable-typing-special-characters-when-pressing-option-key-in-mac-os-x)
+- "CHECK THIS BOX. Use your tab key constantly to move between controls. Learn ^a, ^e, ^f, ^b, alt-BS in text boxes." - [Gary Bernhardt](https://twitter.com/garybernhardt/status/891440300731662336)
+- ![](https://pbs.twimg.com/media/DF8HE6KXoAASOgw.png)
+
+## Key Remapping
+Use [tekezo/Karabiner-Elements: The next generation Karabiner for macOS Sierra](https://github.com/tekezo/Karabiner-Elements)
+
+I like the following configs:
+
+**Mac Keyboard Device**
+
+`caps_lock` => `left_command`
+
+`left_command` => `left_control`
+
+`right_command` => `right_option`
+
+`right_option` => `right_control`
+
+**Microsoft Keyboard Device**
+
+`caps_lock` => `left_command`
+
+`left_command` => `left_option`
+
+`left_option` => `left_control`
