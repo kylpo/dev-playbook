@@ -52,6 +52,12 @@ _Work in Progress_
 - `Alt ]` - dock window to right
 
 ## Dev setup
+Here are screenshots of me locally developing a site with terminal, tmux, and vim:
+
+![](https://github.com/kylpo/dev-playbook/blob/master/assets/chrome-termux.png?raw=true)
+
+![](https://github.com/kylpo/dev-playbook/blob/master/assets/chrome-dev-site.png?raw=true)
+
 - [My $169 development Chromebook](https://blog.lessonslearned.org/building-a-more-secure-development-chromebook/)
   - It all boils down to using [Termux](https://termux.com/) for an amazing terminal experience for ChromeOS and Android.
     - Only pain point for me is `ctrl-n` to go down an entry will always open a new tab in ChromeOS. This is not overridable :(
@@ -62,3 +68,21 @@ _Work in Progress_
   - Type shell and press return to enter the developer shell.
 
 ## Settings
+
+## Android on ChromeOS
+### DOES work
+- Notifications
+- Full screen apps
+- Floating apps (not just full screen)
+  - [Floating Stickies \- Android Apps on Google Play](https://play.google.com/store/apps/details?id=genius.mohammad.floating.stickies)
+  - ![](https://github.com/kylpo/dev-playbook/blob/master/assets/chrome-stickies.png?raw=true)
+- Multiple open apps
+- "hardware" back button
+  - In window's titlebar
+- Keyboard/Mouse
+
+### Does NOT work
+- Launchers (and replacement home screens)
+- Widgets
+- Resizable widows
+- Screen Saver
