@@ -75,6 +75,10 @@ Here are screenshots of me locally developing a site with terminal, tmux, and vi
 ## Settings
 
 ## Android on ChromeOS
+Especially since Chrome Apps are being [deprecated](https://blog.chromium.org/2016/08/from-chrome-apps-to-web.html), Android apps a necessary addition to ChromeOS.
+
+The [Time Doser](https://chrome.google.com/webstore/detail/timedoser/cmkneeaihlcdllananjlkmppnkdahdcc?hl=en) Chrome app, for example, will need to be replaced with a floating Android app.
+
 ### DOES work
 - Notifications
 - Full screen apps
