@@ -1,5 +1,3 @@
-_Work in Progress_
-
 # Chrome
 ## Extensions
 ### Daily
