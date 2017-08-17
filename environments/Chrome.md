@@ -8,6 +8,7 @@ _Work in Progress_
 - [Session Buddy](https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko) - save snapshot of open browser tabs
 - [Spaces](https://chrome.google.com/webstore/detail/spaces/cenkmofngpohdnkbjdpilgpmbiiljjim) - a more involved tab manager than Session Buddy
 - [Focus](https://chrome.google.com/webstore/detail/focus/paipcheolflniajdfeglfpddafcklepg)
+
 ![](https://lh3.googleusercontent.com/VGJGQINGg8IWyeSFF6AhZKJqbceZhLwrLYef7Cj68OJr-jmPHhq2nNF-l2Ld9VG2iajBGuWvpHs=w640-h400-e365)
 - [WOT: Web of Trust, Website Reputation Ratings](https://chrome.google.com/webstore/detail/wot-web-of-trust-website/bhmmomiinigofkjcapegjjndpbikblnp) - warns of sketchy sites
 - [StayFocusd](https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji) - block sites
@@ -20,15 +21,19 @@ _Work in Progress_
 
 ### For Developers and Designers
 - [Dimensions](https://chrome.google.com/webstore/detail/dimensions/baocaagndhipibgklemoalmkljaimfdj)
+
 ![](https://lh3.googleusercontent.com/ceJflFysqTQjWuY0pnO7ab6OiBf-7uJdCJ_9EOL14pHIT7pECE-yi5fL9PUgNuQMNk3kAnhKNw=w640-h400-e365)
 - [Emmet Re:view](https://chrome.google.com/webstore/detail/emmet-review/epejoicbhllgiimigokgjdoijnpaphdp)
+
 ![](https://lh3.googleusercontent.com/Ofry7wX_DxwwpY4lXCPcD0-EHRZnp_Oo79Jrd2kvZ0H4oWWHYtsgyVMkunURQQAV9VU81ud0rw=w640-h400-e365)
 - [IcoMoon](https://chrome.google.com/webstore/detail/icomoon/kppingdhhalimbaehfmhldppemnmlcjd)
+
 ![](https://lh3.googleusercontent.com/uCp8QRtnVXu6zb2XHY4vFxaldZhmDDgR12hmuRf9fuajx4iXX6NwKZ_U_grRr62YhwAEOERD=w640-h400-e365)
 - [Pinterest Save Button](https://chrome.google.com/webstore/detail/pinterest-save-button/gpdjojdkbbmdfjfahjcgigfpmkopogic)
 - [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk)
 - [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
 - [Show me the React!](https://chrome.google.com/webstore/detail/show-me-the-react/iaebolhfcmodobkanmaahdhnlplncbnd)
+
 ![](https://lh3.googleusercontent.com/P-e_KCbLUZ6iiuULK1oid3jIqzga9-kFA_PB4zDfGez6xWbYfbFIS5WXy931_gkvslQ3RhoT3og=w640-h400-e365)
 
 
