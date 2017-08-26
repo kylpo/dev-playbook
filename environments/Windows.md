@@ -42,6 +42,12 @@
 # Window Management
 - use [WinDivvy](http://mizage.com/windivvy/) to move/position windows with your keyboard. Closest Windows app I could find to [Moom](https://manytricks.com/moom/).
   - ![](http://mizage.com/windivvy/screenshots/shortcuts.png)
+- How to pin an app to a Virtual Desktop?
+  - `win tab` to see task view
+  - right click window -> `Show this window on all desktops`
+  - ![](https://cloud.addictivetips.com/wp-content/uploads/2016/04/win10-pin-app-desktop.jpg)
+- [eXtra Buttons: utility buttons in the title of the window](http://www.xtrabuttons.com/)
+  - Adds buttons to titlebar to `Always on Top`, `Roll Up/Down`, `Send to Back`, `Opacity`, etc.
 
 # Utils
 - Desktop Widgets
@@ -54,7 +60,10 @@
     - `left_alt` -> `left_ctrl`
     - `left_win` -> `right_alt`
 - Focus of active window
-  - 
+  - More prominent border
+    - an answer on [How can I make my active window more obvious on Windows 7 without disabing transparency? \- Super User](https://superuser.com/questions/723053/how-can-i-make-my-active-window-more-obvious-on-windows-7-without-disabing-trans)
+  - Or remove it entirely
+    - [That 1\-pixel window border\.\.\. : Windows10](https://www.reddit.com/r/Windows10/comments/3blaf8/that_1pixel_window_border/)
 
 # Settings
 - [How To Reverse Scroll Direction In Windows 10](http://www.addictivetips.com/windows-tips/reverse-scroll-direction-in-windows-10/)

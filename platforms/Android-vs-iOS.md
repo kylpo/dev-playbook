@@ -153,10 +153,12 @@ Android
 Android
 - Keyboard
     - `Meta /` to trigger a Keyboard Shortcuts screen that displays all shortcuts available both from the system and from the app in focus.
+    - Note: able to remap keys
 - Mouse
 
 iOS
 - Keyboard
+    - Note: not able to remap keys (I think)
 - (no mouse)
 
 # AR
