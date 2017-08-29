@@ -163,7 +163,8 @@ iOS
 
 # AR
 Android:
-- Tango - requires hardware that most devices do not currently have
+- Tango - requires hardware that most devices do not currently have.
+- [ARCore](https://developers.google.com/ar/) - no additional hardware (released after ARKit).
 
 iOS:
 - ARKit - no additional hardware. Uses normal sensors and software. Means it is accessible to all, as soon as iOS 11 is released.
