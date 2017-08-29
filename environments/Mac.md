@@ -67,6 +67,8 @@
   - ![](https://bahoom.com/media/window_previews.png?1307272642)
 - [Snap](https://itunes.apple.com/us/app/snap/id418073146?mt=12)
   - Launch apps from Dock with `cmd 1-9`
+- If you want a menu in your app, not just the Menubar, try out [MenuEverywhere](http://www.binarybakery.com/aprod/menueverywhere.html)
+  - ![](http://www.binarybakery.com/aprod/images/me-9.jpg)
 
 # Media
 - [beardedspice/beardedspice: Mac Media Keys for the Masses](https://github.com/beardedspice/beardedspice) allows me to tolerate browser-based media players, which means I no longer need to open itunes!

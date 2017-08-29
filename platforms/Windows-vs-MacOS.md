@@ -3,16 +3,16 @@ Realistically, despite these platforms being so customizable, most users will ju
 
 ## Mac has, Windows doesn't
 - Widgets
-- keyboard shortcut standards for preferences `cmd ,`
 - Standardized app toolbar (that lives in Menubar)
-    - all options searchable with `cmd ?`
-- Power-user modifier key for menus: hold down `option` when a menu option is visible
+- Keyboard shortcut standards for preferences (`cmd ,`), menu search (`cmd ?`)
+    - Power-user modifier key for menus: hold down `option` when a menu option is visible
 - Spotlight to easily preview content before officially opening
 - App store with desktop-quality apps
     - though Windows just opened up their store to desktop apps
 - Bash built in
 
 ## Windows has, Mac doesn't
+- Touch-capable
 - Gaming
     - And a focus of the OS with the recently added Game Bar
 - Window manager via hotkeys
@@ -24,8 +24,6 @@ Mac's Menubar and Dock (bar) have some subtle, but important differences from Wi
 
 Quickly, here are some terms:
 
----
-
 **App Launcher**: on press, will launch or focus an app. Can also close apps via this control.
 
 ---
@@ -34,7 +32,7 @@ Quickly, here are some terms:
 
 ---
 
-**System Tray** (SysTray for short, also called Status Menus): is an extension point for icons and text to display information, open windows/dropdowns, and quick actions.
+**System Tray** (SysTray for short, also called Status Menus): is an extension point for icons and text to display information, open windows/dropdowns, and perform quick actions. Example below from [Pomolectron](https://github.com/amitmerchant1990/pomolectron).
 
 |  macOS            |  Windows |
 |---------------------|----------------------|
@@ -58,7 +56,7 @@ Quickly, here are some terms:
 Two things to note here versus Windows.
 1. Individual apps do not have App Menus in their Window. They will always appear in the MenuBar. Some argue this is good for mouse users (consistent location), some argue it is bad (window on right side of screen needs has menus on left side)
 2. Icons AND TEXT allowed in the SysTray, only icons are allowed, which is a huge bummer for developers building timers, calendar notifications, etc.
-    - ![](http://is3.mzstatic.com/image/thumb/Purple7/v4/f3/74/c0/f374c029-5ac9-0abe-7e57-71e9aa1f811f/source/800x500bb.jpg)
+    - ![https://itunes.apple.com/us/app/next-meeting-menu-bar-app/id1017470484?mt=12](http://is3.mzstatic.com/image/thumb/Purple7/v4/f3/74/c0/f374c029-5ac9-0abe-7e57-71e9aa1f811f/source/800x500bb.jpg)
 
 
 ## Windows opts for one bar
@@ -77,6 +75,7 @@ Two things to note here versus Windows.
 
 ![https://www.techjunkie.com/add-system-resource-desktop/](https://i1.wp.com/www.techjunkie.com/wp-content/uploads/2016/05/system-resource9.jpg?resize=275%2C237)
 
-As mentioned before, ONLY ICONS can live here. Some get [creative](https://stackoverflow.com/questions/36379547/writing-text-to-the-system-tray-instead-of-an-icon) and convert text/numbers to icons, but there is only enough room for a few characters.
-
-![](https://i.stack.imgur.com/uTjda.png)
+As mentioned before, ONLY ICONS can live here.
+- This is particularly frustrating because the built-in Time/Calendar control displays text, so the functionality exists, there just isn't a 3rd party developer API for it.
+- Some get [creative](https://stackoverflow.com/questions/36379547/writing-text-to-the-system-tray-instead-of-an-icon) and convert text/numbers to icons, but there is only enough room for a few characters.
+    - ![](https://i.stack.imgur.com/uTjda.png)
