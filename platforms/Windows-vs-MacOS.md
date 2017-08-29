@@ -23,11 +23,17 @@ Realistically, despite these platforms being so customizable, most users will ju
 Mac's Menubar and Dock (bar) have some subtle, but important differences from Window's Taskbar.
 
 Quickly, here are some terms:
+
 ---
+
 **App Launcher**: on press, will launch or focus an app. Can also close apps via this control.
+
 ---
+
 **App Menu**: contains menu options like `File`, `Edit`, `View`, etc for an app.
+
 ---
+
 **System Tray** (SysTray for short, also called Status Menus): is an extension point for icons and text to display information, open windows/dropdowns, and quick actions.
 
 |  macOS            |  Windows |
