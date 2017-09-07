@@ -12,6 +12,10 @@ Your default column houses your `Watch Face` at the top, and any `collapsed noti
 #### Watch Face
 ![](https://storage.googleapis.com/material-design/publish/wear_v_3/assets/0B5QhgrCEXHzxQTFWT1RPRFAydVk/02_watch_faces.png)
 
+Another nice example, showing [Cool Circle watch face](https://play.google.com/store/apps/details?id=com.watch.richface.coolcircle)
+
+![](https://lh3.googleusercontent.com/v8rTjp0h3tW0Ctai6lcCobZNVbPC3vXU2_N3hxzXbcnglOP3_kusogfRGKLHZXakV9g=h900-rw)
+
 [Interactive watch faces \- Patterns \- Android Wear design guidelines](https://www.google.com/design/spec-wear/patterns/interactive-watch-faces.html#) for more
 
 #### Collapsed Notifications
@@ -102,6 +106,10 @@ Note: Apps can take advantage of this, too! No longer just the Face.
 ![](https://1.bp.blogspot.com/-Jz1tjR2Ouyc/VYyZ9thRtmI/AAAAAAAAAhE/wajr8jHut4Q/s320/Screen%2BShot%2B2015-06-25%2Bat%2B5.16.24%2BPM.png)
 
 from [Official Android Blog: Android Wear: Always\-on apps](https://android.googleblog.com/2015/06/android-wear-always-on-apps.html)
+
+Another example of [EveryDay Watch Face](https://play.google.com/store/apps/details?id=huskydev.android.watchface.everydayfree)
+
+![](https://lh3.googleusercontent.com/f4copf__Ir6bSycxhIyKqv66c1x5_mKeG6cAe-kCS-ZZLddEj22vLCZZq3jOjm0lNUY=h900-rw)
 
 # App Capabilities
 - Watch this [fake climbing app](https://youtu.be/Hw37dxW6q5g?t=27m12s) demonstrating many capabilities
