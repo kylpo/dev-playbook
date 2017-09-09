@@ -43,6 +43,7 @@
 - [Optimizing Apps for Chromebooks | Android Developers](https://developer.android.com/topic/arc/index.html)
 - [Android Development on Chrome OS (Example)](https://coderwall.com/p/fv0xrq/android-development-on-chrome-os)
 - [Instant tethering is coming to Chrome OS to make it easier to get online | TechRadar](http://www.techradar.com/news/instant-tethering-is-coming-to-chrome-os-to-make-it-easier-to-get-online)
+- [Data Science on a Chromebook · Simply Statistics](https://simplystatistics.org/2017/08/29/data-science-on-a-chromebook/?utm_source=hackernewsletter&utm_medium=email&utm_term=data) 
 
 ## Hotkeys
 - `Ctrl Alt /` - open keyboard shortcut cheat sheet

@@ -20,3 +20,9 @@ Customize syntax highlighting to support template literals (I think) - [Webstorm
 ![](https://pbs.twimg.com/media/DIpJ6nSWAAEXsKh.jpg)
 
 [JetBrains WebStorm on Twitter: "If you’re using styled\-components 💅, you should definitely try this new plugin: https://t\.co/bWFPSlNKEl https://t\.co/YbF2evFA0x https://t\.co/81XVyKbRzZ"](https://twitter.com/WebStormIDE/status/903615955032518656)
+
+## Developing Plugins
+- Dig in to source code of [styled\-components/webstorm\-styled\-components](https://github.com/styled-components/webstorm-styled-components) for a plugin built with Kotlin
+- [JetBrains/gradle\-intellij\-plugin: Plugin for building plugins for IntelliJ IDEs](https://github.com/JetBrains/gradle-intellij-plugin)
+- [Creating Your First Plugin / IntelliJ Platform SDK DevGuide](https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started.html)
+- [Reference \- Kotlin Programming Language](https://kotlinlang.org/docs/reference/)
