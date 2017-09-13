@@ -37,6 +37,10 @@ Gnome Shell is the future of Ubuntu, so let's embrace it! I am currently using t
   - Just press `Super` and start typing
 - Spaces -> called Workspaces now
 - Hot Corners -> [CustomCorner](https://extensions.gnome.org/extension/1037/customcorner/)
+- MenuBar's App Menu -> [Gnome Global AppMenu](https://github.com/lestcape/Gnome-Global-AppMenu)
+  - I am not currently using this, but it [looks](http://www.omgubuntu.co.uk/2017/04/global-menu-for-gnome-extension-development) useful
+- Searchable commands (`super /`) -> [Plotinus](https://github.com/p-e-w/plotinus)
+  - ![](https://cloud.githubusercontent.com/assets/2702526/20246717/454a1a9a-a9e3-11e6-8b19-4db092348793.gif)
 
 ## Window Management
 - Use Workspaces
@@ -75,6 +79,8 @@ Gnome Shell is the future of Ubuntu, so let's embrace it! I am currently using t
   `Super Ctrl Shift 3` - right 2/3
 
 - If you'd like an auto-tiling window manager, consider [ShellTile](https://extensions.gnome.org/extension/657/shelltile/) or [shellshape](https://extensions.gnome.org/extension/294/shellshape/)
+- CustomCorner
+  - bottom left corner locks screen with this command: `dbus-send --type=method_call --dest=org.gnome.ScreenSaver \ /org/gnome/ScreenSaver org.gnome.ScreenSaver.Lock`
 
 ## Keyboard Setup
 #### Remapping
