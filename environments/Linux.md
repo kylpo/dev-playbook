@@ -76,7 +76,8 @@ Gnome Shell is the future of Ubuntu, so let's embrace it! I am currently using t
 
 - If you'd like an auto-tiling window manager, consider [ShellTile](https://extensions.gnome.org/extension/657/shelltile/) or [shellshape](https://extensions.gnome.org/extension/294/shellshape/)
 
-## Keyboard Remapping
+## Keyboard Setup
+#### Remapping
 `Gnome Tweaks` -> `Typing`
 - `Miscellaneous compatibility options`
   - enable `Both shift keys together activate Caps Lock, on Shift key deactivates`
@@ -86,3 +87,10 @@ Gnome Shell is the future of Ubuntu, so let's embrace it! I am currently using t
   - enable `Make Caps Lock an additional Super`
 - `Alt-Win key behavior`
   - enable `Alt is swapped with Win`
+
+#### Custom Hotkeys
+See [this](https://askubuntu.com/questions/254424/how-can-i-change-what-keys-on-my-keyboard-do-how-can-i-create-custom-keyboard/304834#304834) SO answer for a great writeup of [AutoKey](https://apps.ubuntu.com/cat/applications/autokey-gtk/)
+
+> Unlike xmodmap, AutoKey doesn't rebind the actual keys on your keyboard; it runs in the background and intercepts your defined keyboard shortcuts, then sends simulated keypresses to your applications.
+
+Using its `Phrases`, I have mapped things like `Super c` to `Ctrl c` for copy, and `Super h/j/k/l` to arrow keys.
