@@ -3,8 +3,8 @@
   - [Anbox Installation, Setup, and Test \- Run Android Applications on Linux\! \- YouTube](https://www.youtube.com/watch?v=Or9uzQLb3ws)
 - [autokey](https://github.com/autokey/autokey) - for scripting and key remapping
   - More on this later
-- Pithos
-- Spotify
+- [Pithos – Pandora Radio Client](https://pithos.github.io/)
+- [Spotify for Linux](https://www.spotify.com/us/download/linux/)
 
 # Gnome-Shell
 Gnome Shell is the future of Ubuntu, so let's embrace it! I am currently using the [Ubuntu GNOME](https://wiki.ubuntu.com/UbuntuGNOME/GetUbuntuGNOME) distro.
