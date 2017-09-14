@@ -1,8 +1,11 @@
-# Dev setup
-## Terminal
+# Terminal and bash
 ![](https://github.com/Eugeny/terminus/raw/master/docs/linux.png)
 
 [Terminus](https://eugeny.github.io/terminus/) (shown above) and [Hyper](https://hyper.is/) are feature-packed and look amazing, BUT they have a noticable delay when typing and scrolling in an editor like vim. Thankfully, Bash on Ubuntu on Windows does not have any of these perf issues.
+
+Bash on Ubuntu on Windows uses the new WSL (Windows Linux Subsystem) to get an almost first-class bash on Windows.
+
+> Note that `~`, or `/home/<username>`, is your home for the subsystem. If you want to go to your Windows file home (typically on the `C:\` drive), go to `/mnt/c/Users/<username>`. This did confuse me at first. See [this](https://superuser.com/questions/1185033/what-is-the-home-directory-on-windows-subsystem-for-linux/1185042) for more.
 
 # Familiar to MacOS
 - [Essential apps for switching from Mac to Windows - Charged](https://char.gd/blog/2017/essential-apps-for-switching-from-mac-to-windows)
@@ -68,6 +71,7 @@
 - [My Bash on Windows Dev Environment - daverupert.com](http://daverupert.com/2017/03/my-bash-on-windows-developer-environment/)
 - [Setting up a Shiny Development Environment within Linux on Windows 10 - Scott Hanselman](https://www.hanselman.com/blog/SettingUpAShinyDevelopmentEnvironmentWithinLinuxOnWindows10.aspx)
 - [Everything You Can Do With Windows 10’s New Bash Shell](https://www.howtogeek.com/265900/everything-you-can-do-with-windows-10s-new-bash-shell/)
+- [Setting up Ubuntu on Windows 10](http://jamesgecko.com/setting-up-ubuntu-on-windows-10/)
 - [Zach Bruggeman on Twitter: "i've been using the latest WSL for a bit, could see this replacing my mac for dev work. @zeithq's hyper is a great terminal for windows https://t.co/PYFKdoEWFY"](https://twitter.com/zachbruggeman/status/853340648983773184)
   - ![](https://pbs.twimg.com/media/C9eql3jUwAA_RaV.jpg)
 - [Max Stoiber on Twitter: "@yosefdurr If anybody has tips for must-have Windows apps (Mac/Rocket-like emoji keyboard?!) please let me know! #maxgoeswindows"](https://twitter.com/mxstbr/status/878380743595929600)
