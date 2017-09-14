@@ -5,7 +5,7 @@
 
 Bash on Ubuntu on Windows uses the new WSL (Windows Linux Subsystem) to get an almost first-class bash on Windows.
 
-> Note that `~`, or `/home/<username>`, is your home for the subsystem. If you want to go to your Windows file home (typically on the `C:\` drive), go to `/mnt/c/Users/<username>`. This did confuse me at first. See [this](https://superuser.com/questions/1185033/what-is-the-home-directory-on-windows-subsystem-for-linux/1185042) for more.
+Note that `~`, or `/home/<username>`, is your home for the subsystem. If you want to go to your Windows file home (typically on the `C:\` drive), go to `/mnt/c/Users/<username>`. This did confuse me at first. See [this](https://superuser.com/questions/1185033/what-is-the-home-directory-on-windows-subsystem-for-linux/1185042) for more.
 
 # Familiar to MacOS
 - [Essential apps for switching from Mac to Windows - Charged](https://char.gd/blog/2017/essential-apps-for-switching-from-mac-to-windows)
@@ -48,6 +48,8 @@ Bash on Ubuntu on Windows uses the new WSL (Windows Linux Subsystem) to get an a
     - `caps_lock` -> `win`
     - `left_alt` -> `left_ctrl`
     - `left_win` -> `right_alt`
+- Custom Hotkeys with [AutoHotkey](https://autohotkey.com/)
+  - e.g. [Windows Hot Keys with AutoHotKey – Noah Coad](https://blogs.msdn.microsoft.com/noahc/2008/06/15/windows-hot-keys-with-autohotkey/)
 - Focus of active window
   - More prominent border
     - an answer on [How can I make my active window more obvious on Windows 7 without disabing transparency? \- Super User](https://superuser.com/questions/723053/how-can-i-make-my-active-window-more-obvious-on-windows-7-without-disabing-trans)
