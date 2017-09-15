@@ -74,6 +74,7 @@ Note that `~`, or `/home/<username>`, is your home for the subsystem. If you wan
 - [Setting up a Shiny Development Environment within Linux on Windows 10 - Scott Hanselman](https://www.hanselman.com/blog/SettingUpAShinyDevelopmentEnvironmentWithinLinuxOnWindows10.aspx)
 - [Everything You Can Do With Windows 10’s New Bash Shell](https://www.howtogeek.com/265900/everything-you-can-do-with-windows-10s-new-bash-shell/)
 - [Setting up Ubuntu on Windows 10](http://jamesgecko.com/setting-up-ubuntu-on-windows-10/)
+- [Jessie Frazelle's Blog: Windows for Linux Nerds](https://blog.jessfraz.com/post/windows-for-linux-nerds/)
 - [Zach Bruggeman on Twitter: "i've been using the latest WSL for a bit, could see this replacing my mac for dev work. @zeithq's hyper is a great terminal for windows https://t.co/PYFKdoEWFY"](https://twitter.com/zachbruggeman/status/853340648983773184)
   - ![](https://pbs.twimg.com/media/C9eql3jUwAA_RaV.jpg)
 - [Max Stoiber on Twitter: "@yosefdurr If anybody has tips for must-have Windows apps (Mac/Rocket-like emoji keyboard?!) please let me know! #maxgoeswindows"](https://twitter.com/mxstbr/status/878380743595929600)
