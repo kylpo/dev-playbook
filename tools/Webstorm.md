@@ -14,6 +14,20 @@ Be sure to start with a `Keymap` that you like. I prefer `Emacs`.
 
 Customize syntax highlighting to support template literals (I think) - [Webstorm, IntelliJ 등의 JetBrains IDE에서 styled-components 사용하기](https://medium.com/@iamssen/webstorm-intellij-%EB%93%B1%EC%9D%98-jetbrains-ide%EC%97%90%EC%84%9C-styled-components-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-b0bc79418e1f)
 
+## Settings
+### Format on save
+From [7 reasons this Android Code Style improves your productivity](https://android.jlelse.eu/7-reasons-this-android-code-style-improves-your-productivity-65d196fa55f)
+
+- Select Edit > Macros > Start Macro Recording
+- Select Code > Optimize Imports
+- Select Code > Reformat Code
+- Select Code > Rearrange Code
+- Select File > Save All
+- Select Edit > Macros > Stop Macro Recording and give it a name (mine is OptimizeImportsReformatRearrangeSave)
+- Go to Preferences > Keymap
+- Find the Macro section
+- Add ⌘ + S shortcut for the new macro
+
 ## Plugins
 [Styled Components :: JetBrains Plugin Repository](https://plugins.jetbrains.com/plugin/9997-styled-components)
 
