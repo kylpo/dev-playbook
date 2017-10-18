@@ -29,11 +29,15 @@ From [7 reasons this Android Code Style improves your productivity](https://andr
 - Add ⌘ + S shortcut for the new macro
 
 ## Plugins
-[Styled Components :: JetBrains Plugin Repository](https://plugins.jetbrains.com/plugin/9997-styled-components)
+#### [Styled Components](https://plugins.jetbrains.com/plugin/9997-styled-components)
 
 ![](https://pbs.twimg.com/media/DIpJ6nSWAAEXsKh.jpg)
 
 [JetBrains WebStorm on Twitter: "If you’re using styled\-components 💅, you should definitely try this new plugin: https://t\.co/bWFPSlNKEl https://t\.co/YbF2evFA0x https://t\.co/81XVyKbRzZ"](https://twitter.com/WebStormIDE/status/903615955032518656)
+
+#### [Key promoter](https://plugins.jetbrains.com/plugin/1003-key-promoter)
+
+![](https://plugins.jetbrains.com/files/1003/screenshot_265.png)
 
 ## Developing Plugins
 - Dig in to source code of [styled\-components/webstorm\-styled\-components](https://github.com/styled-components/webstorm-styled-components) for a plugin built with Kotlin
