@@ -38,6 +38,8 @@ https://www.reddit.com/r/vim/comments/6axcij/spacevim_tabs_managersupport_fold_t
 
 [Vim Tab Madness. Buffers vs Tabs - Josh Davis](http://joshldavis.com/2014/04/05/vim-tab-madness-buffers-vs-tabs/)
 
+[Vim After 15 Years \| Ian Langworth’s Things of Variable Interest](https://statico.github.io/vim3.html#buffers-buffers-buffers)
+
 # Oni
 - https://github.com/extr0py/oni#configuration
 - https://github.com/extr0py/oni/blob/master/browser/src/Config.ts#L34
