@@ -1,4 +1,5 @@
-# Terminal and bash
+# WSL setup
+## Terminal and bash
 ![](https://github.com/Eugeny/terminus/raw/master/docs/linux.png)
 
 [Terminus](https://eugeny.github.io/terminus/) (shown above) and [Hyper](https://hyper.is/) are feature-packed and look amazing, BUT they have a noticable delay when typing and scrolling in an editor like vim. Thankfully, Bash on Ubuntu on Windows does not have any of these perf issues.
@@ -6,6 +7,37 @@
 Bash on Ubuntu on Windows uses the new WSL (Windows Linux Subsystem) to get an almost first-class bash on Windows.
 
 Note that `~`, or `/home/<username>`, is your home for the subsystem. If you want to go to your Windows file home (typically on the `C:\` drive), go to `/mnt/c/Users/<username>`. This did confuse me at first. See [this](https://superuser.com/questions/1185033/what-is-the-home-directory-on-windows-subsystem-for-linux/1185042) for more.
+
+## Git
+Already installed, I think.
+
+Set up your Github keys (even if you've already set them up in non-WSL land): [Generating a new SSH key and adding it to the ssh\-agent \- User Documentation](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/#platform-linux)
+
+## Node
+```bash
+curl -sL https://deb.nodesource.com/setup_9.x | sudo -E bash -
+sudo apt-get install -y nodejs
+```
+
+from [Installing Node\.js via package manager \| Node\.js](https://nodejs.org/en/download/package-manager/)
+
+Not sure why, but I had to fix my `npm' permissions: [Fixing npm permissions \| npm Documentation](https://docs.npmjs.com/getting-started/fixing-npm-permissions)
+
+
+# Non-WSL
+WSL is nice for when you're able to stay in non-GUI unix-land, but eventually you'll probably need to use native windows apps like intellij, vs code, etc that will need windows-native git, node, etc.
+
+## Git
+Install from [Git \- Downloading Package](https://git-scm.com/download/win). I prefer to not deal with Github Desktop
+
+Set up github keys (even if you've already set them up in WSL land): [Generating a new SSH key and adding it to the ssh\-agent \- User Documentation](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/)
+
+Then add it to your account: [Adding a new SSH key to your GitHub account \- User Documentation](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/)
+
+## Node
+[coreybutler/nvm\-windows: A node\.js version management utility for Windows\. Ironically written in Go\.](https://github.com/coreybutler/nvm-windows)
+
+
 
 # Familiar to MacOS
 - [Essential apps for switching from Mac to Windows - Charged](https://char.gd/blog/2017/essential-apps-for-switching-from-mac-to-windows)

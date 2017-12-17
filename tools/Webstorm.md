@@ -28,6 +28,11 @@ From [7 reasons this Android Code Style improves your productivity](https://andr
 - Find the Macro section
 - Add ⌘ + S shortcut for the new macro
 
+### Windows-specific
+Use git's terminal: [How to open a terminal on WebStorm? \- Stack Overflow](https://stackoverflow.com/questions/30090800/how-to-open-a-terminal-on-webstorm)
+
+Someday we might be able to use WSL in terminal like [VS Code](https://blogs.msdn.microsoft.com/commandline/2017/10/27/running-node-js-on-wsl-from-visual-studio-code/). See [this](https://youtrack.jetbrains.com/issue/WEB-22794) issue.
+
 ## Plugins
 #### [Styled Components](https://plugins.jetbrains.com/plugin/9997-styled-components)
 
