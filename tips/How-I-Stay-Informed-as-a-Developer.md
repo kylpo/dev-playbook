@@ -139,3 +139,6 @@ If I can clearly understand the speaker, I again enjoy watching at 1.25-1.5x spe
 I'm happy with this system. It isn't easy by any means--I spend at least an hour a day consuming content--but it has kept me sane, and well informed.
 
 Do you have a system? I’d love to hear about it!
+
+## Addendum: How others do it
+- [Staying up\-to\-date as a software developer with a daily learning routine](https://trevordmiller.com/blog/learning-routine)
