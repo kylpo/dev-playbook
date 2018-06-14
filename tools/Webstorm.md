@@ -28,6 +28,10 @@ From [7 reasons this Android Code Style improves your productivity](https://andr
 - Find the Macro section
 - Add ⌘ + S shortcut for the new macro
 
+### Smart Keys
+- Enable `Use "CamelHumps"` to jump by word (instead of whole text) when navigating in camelcase
+- Enable `Surround selection on typing quote or brace`
+
 ### Windows-specific
 Use git's terminal: [How to open a terminal on WebStorm? \- Stack Overflow](https://stackoverflow.com/questions/30090800/how-to-open-a-terminal-on-webstorm)
 
