@@ -11,6 +11,9 @@
 ## Tips
 [Android Studio for Experts \(Android Dev Summit 2015\) \- YouTube](https://www.youtube.com/watch?v=Y2GC6P5hPeA)
 
+Do you use a command sometimes, but not enough to assign and memorize a hotkey?
+- Use an abbreviation to find it faster in Command Search
+
 ## Hotkeys/commands
 
 ## Settings
@@ -27,6 +30,9 @@ ADB commands in the Quick Operations popup. I particularly like the `ADB Clear A
 
 #### [Git Flow Integration](https://plugins.jetbrains.com/plugin/7315-git-flow-integration)
 ![](https://plugins.jetbrains.com/files/7315/screenshot_16108.png)
+
+#### [Databinding Support](https://plugins.jetbrains.com/plugin/9271-databinding-support)
+![](https://raw.githubusercontent.com/shiraji/databinding-support/master/websites/images/wrap.gif)
 
 ## Resources
 - [50 Android Studio Tips, Tricks & Resources you should be familiar with, as an Android Developer](https://medium.com/@mmbialas/50-android-studio-tips-tricks-resources-you-should-be-familiar-with-as-an-android-developer-af86e7cf56d2)
