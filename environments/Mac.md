@@ -113,3 +113,6 @@ I like the following configs:
 `left_command` => `left_option`
 
 `left_option` => `left_control`
+
+## Gmail keybindings for Mail.app
+[How to Use Gmail’s Keyboard Shortcuts in macOS Mail](https://www.howtogeek.com/307860/how-to-use-gmails-keyboard-shortcuts-in-macos-mail/) using [jgavris/GMailinator at sierra\-uuid](https://github.com/jgavris/GMailinator/tree/sierra-uuid)
