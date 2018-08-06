@@ -90,6 +90,8 @@
 - [osx - How to disable typing special characters when pressing option key in Mac OS X? - Stack Overflow](https://stackoverflow.com/questions/11876485/how-to-disable-typing-special-characters-when-pressing-option-key-in-mac-os-x)
 - "CHECK THIS BOX. Use your tab key constantly to move between controls. Learn ^a, ^e, ^f, ^b, alt-BS in text boxes." - [Gary Bernhardt](https://twitter.com/garybernhardt/status/891440300731662336)
 - ![](https://pbs.twimg.com/media/DF8HE6KXoAASOgw.png)
+- System Preferences > Keyboard > All Applications --> add "Paste and Match Style" ⌘V
+- System Preferences > Keyboard > Text > disable "Smart Quotes"
 
 ## Key Remapping
 Use [tekezo/Karabiner-Elements: The next generation Karabiner for macOS Sierra](https://github.com/tekezo/Karabiner-Elements)
