@@ -2,6 +2,8 @@ _Work in Progress_
 
 [Why I Still Use Vim – freeCodeCamp](https://medium.freecodecamp.org/why-i-still-use-vim-67afd76b4db6)
 
+[Vim won't make you a more productive developer \- DEV Community 👩‍💻👨‍💻](https://dev.to/maestromac/vim-wont-make-you-a-more-productive-developer-h9f)
+
 ```
 ._____           _     
 |_   _|__   ___ | |___
