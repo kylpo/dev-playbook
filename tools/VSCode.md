@@ -11,12 +11,19 @@
 - see [Microsoft/vscode-tips-and-tricks: Collection of helpful tips and tricks for VS Code.](https://github.com/Microsoft/vscode-tips-and-tricks)
 - [awesome-vscode: A curated list of delightful VS Code packages and resources.](https://github.com/viatsko/awesome-vscode)
 - [Tasks in Visual Studio Code](https://code.visualstudio.com/docs/editor/tasks)
+- Use Breadcrumbs!
+- [Set up CLI `code` command](https://code.visualstudio.com/docs/setup/mac#_launching-from-the-command-line)
+- [Disable tabs](https://stackoverflow.com/questions/38147154/how-to-disable-tabs-in-vscode)
+  - `Close all editors in group` to remove split/pane. Otherwise, `cmd-w` will close a file, but the split will still
+    remain if other files have been open in that split.
 
 
 ## Hotkeys/commands
 - `cmd-shift-p` (Command Palette)
   - `"sort lines"`
 - `cmd-shift-o` nav to symbol
+- `cmd-shift-.` focus breadcrumbs
+  - `cmd-left/right` move up/down in breadcrumbs
 - `shift-option-o` for outline of file for quick nav
 - `ctrl-q` open quick switch to section of app
 - `ctrl-l` codeFileNav (vinegar.vim)
@@ -25,6 +32,12 @@
 - `cmd-shift-o` find by symbol
 - `cmd-shift-v` toggle markdown preview
 - `cmd-k z` zen mode
+
+## Settings
+#### Disable minimap
+```
+"editor.minimap.enabled": false,
+```
 
 
 ## Settings Plugins
