@@ -7,16 +7,17 @@
 ```
 
 # VS Code
+
+## Reasons to use VS Code
+Cross platform, relatively fast, [VS Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare),
+
+
 ## Tips
 - see [Microsoft/vscode-tips-and-tricks: Collection of helpful tips and tricks for VS Code.](https://github.com/Microsoft/vscode-tips-and-tricks)
 - [awesome-vscode: A curated list of delightful VS Code packages and resources.](https://github.com/viatsko/awesome-vscode)
 - [Tasks in Visual Studio Code](https://code.visualstudio.com/docs/editor/tasks)
 - Use Breadcrumbs!
 - [Set up CLI `code` command](https://code.visualstudio.com/docs/setup/mac#_launching-from-the-command-line)
-- [Disable tabs](https://stackoverflow.com/questions/38147154/how-to-disable-tabs-in-vscode)
-  - `Close all editors in group` to remove split/pane. Otherwise, `cmd-w` will close a file, but the split will still
-    remain if other files have been open in that split.
-
 
 ## Hotkeys/commands
 - `cmd-shift-p` (Command Palette)
@@ -38,6 +39,15 @@
 ```
 "editor.minimap.enabled": false,
 ```
+
+#### Smooth scrolling
+```
+"editor.smoothScrolling": true,
+```
+
+#### [Disable tabs](https://code.visualstudio.com/docs/getstarted/userinterface#_working-without-tabs)
+  - Be sure to `Close all editors in group` to remove split/pane. Otherwise, `cmd-w` will close a file, but the split will still
+    remain if other files have been open in that split.
 
 
 ## Settings Plugins
@@ -65,7 +75,18 @@ and trim back rules as you see fit. For reference, `tslint:latest` is a combinat
 Everything you could need for git analysis (history, blame, diff). Not for commit and branch management - that is baked in by default.
 ![](https://raw.githubusercontent.com/eamodio/vscode-git-codelens/master/images/preview-gitlens.gif)
 
-## Navigation
+## Navigation Plugins
+#### Ace-jump
+I prefer [Code Ace Jumper \- Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=lucax88x.codeacejumper) because it has a jump with selection option. I would probably prefer Jumpy if it had a selection option.
+
+Alternatives:
+* [AceJump \- Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=jsturtevant.AceJump)
+* [Find\-Jump \- Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=mksafi.find-jump)
+* [jumpy \- Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=wmaurer.vscode-jumpy)
+
+#### [Center Editor Window](https://marketplace.visualstudio.com/items?itemName=kaiwood.center-editor-window)
+* Be sure to set `center-editor-window.threeStateToggle: true` to get the Emac's behavior of `recenter-top-bottom`
+
 #### [File Navigator](https://marketplace.visualstudio.com/items?itemName=jakelucas.code-file-nav)
 Closest thing to vinegar.vim
 
@@ -82,6 +103,9 @@ OR just copy/paste, then rename the file without this extension
 
 
 ## Editing Plugins
+#### [vscode\-emacs\-tab](https://marketplace.visualstudio.com/items?itemName=garaemon.vscode-emacs-tab)
+Press `tab` to fix indentation from anywhere in the line. Don't insert a tab at cursor.
+
 #### [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 Automatically closes tags while writing the first one, and can close tags after the fact with `cmd-alt-.`
 
@@ -186,3 +210,6 @@ consider using these settings:
 #### [Emacs](https://marketplace.visualstudio.com/items?itemName=hiro-sun.vscode-emacs)
 #### [keyboard-scroll](https://marketplace.visualstudio.com/items?itemName=selbh.keyboard-scroll) to enable `ctrl-l` functionality
 #### [jumpy](https://marketplace.visualstudio.com/items?itemName=wmaurer.vscode-jumpy) (doesn't work with Emacs-plugin [yet](https://github.com/Microsoft/vscode/issues/13441)) for an Ace-Jump alternative
+
+## Others' setups
+- [My VS Code Setup](http://calebporzio.com/my-vs-code-setup-2/)

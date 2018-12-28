@@ -1,3 +1,8 @@
+# iPhone vs Android in brief
+iphone unable to set default apps, generic launcher, siri bad
+
+Android fragmentation, poor upgrade percentage, 50% sales of Apple's store, and most are for games and/or via ads
+
 # Lock in
 Android:
 - allows replacing browser, keyboard, messenger, etc.

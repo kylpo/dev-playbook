@@ -100,3 +100,10 @@ See [this](https://askubuntu.com/questions/254424/how-can-i-change-what-keys-on-
 > Unlike xmodmap, AutoKey doesn't rebind the actual keys on your keyboard; it runs in the background and intercepts your defined keyboard shortcuts, then sends simulated keypresses to your applications.
 
 Using its `Phrases`, I have mapped things like `Super c` to `Ctrl c` for copy, and `Super h/j/k/l` to arrow keys.
+
+#### Custom Keyboard
+Only works w/ xmodmap in a DE using X11.
+
+https://github.com/alols/xcape allows using modifier key as another key when pressed and released on its own.
+
+https://github.com/jackrosenthal/threelayout

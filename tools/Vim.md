@@ -42,6 +42,9 @@ https://www.reddit.com/r/vim/comments/6axcij/spacevim_tabs_managersupport_fold_t
 
 [Vim After 15 Years \| Ian Langworth’s Things of Variable Interest](https://statico.github.io/vim3.html#buffers-buffers-buffers)
 
+> vim-vinegar is the primary reason I use vim. It’s such a natural way to navigate through file hierarchies.
+https://www.reddit.com/r/vim/comments/8ukr9j/what_is_the_most_underrate_vim_plugin_you_use/
+
 # Oni
 - https://github.com/extr0py/oni#configuration
 - https://github.com/extr0py/oni/blob/master/browser/src/Config.ts#L34

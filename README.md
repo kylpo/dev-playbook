@@ -18,7 +18,7 @@ Styles, Conventions, Rules, Tips, and Tools!
   - [Mac](https://github.com/kylpo/dev-playbook/blob/master/environments/Mac.md)
   - [Windows](https://github.com/kylpo/dev-playbook/blob/master/environments/Windows.md) - work in progress
   - [Chrome (and ChromeOS)](https://github.com/kylpo/dev-playbook/blob/master/environments/Chrome.md)
-- Platforms to build for
+- Platforms to build for. i.e. "What can I build on platform X"
   - [MacOS](https://github.com/kylpo/dev-playbook/blob/master/platforms/MacOS.md)
   - [Android vs iOS](https://github.com/kylpo/dev-playbook/blob/master/platforms/Android-vs-iOS.md)
   - [Android Wear](https://github.com/kylpo/dev-playbook/blob/master/platforms/Android-Wear.md)
