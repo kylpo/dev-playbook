@@ -1,4 +1,4 @@
-Think through Model, View, Controller, Model-Controller, View-Controller, View-Model
+# Think through Model, View, Controller, Model-Controller, View-Controller, View-Model
 
 "If we have ViewControllers responsible for the View, then we can have ModelControllers responsible for the Model" - his example was NS/UIDocument reading/writing to database and updating observers.
 
@@ -19,3 +19,6 @@ Also read up on Apple's official doc on all this: https://developer.apple.com/li
 ![](../assets/2018-12-26-15-52-33.png)
 
 ![](../assets/2018-12-26-15-52-45.png)
+
+# MV*
+model fairly dumb, view fairly dumb. Something in the middle.
