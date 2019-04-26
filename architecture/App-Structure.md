@@ -26,6 +26,10 @@ Good analogy is movie frames. An individual one is dead. Rapidly showing one aft
 
 This move frame analogy works well with React Components, too. React does the heavy lifting with virtual dom to make this more performant.
 
+[Model–view–viewmodel \- Wikipedia](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
+> Model refers either to a domain model, which represents real state content (an object-oriented approach), or to the data access layer, which represents content (a data-centric approach).[citation needed]
+
+
 ## What is State?
 What is **state**? Why not call it **data**?
 
