@@ -47,3 +47,11 @@ Instead, think about the scope of code.
 This is one reason I like thinking in components, because they may have any amount of M, V, and/or C. Either the code is local and only concerned about this direct component or its children, or it is shared outside the scope of this component and should be considered shared.
 
 Outside of components and scope, testability is a consideration (and a driving reason to think in MV*).
+
+---
+
+![](./assets/MV-star.jpeg)
+
+![](./assets/MV-star1.jpeg)
+
+![](./assets/MV-star2.jpeg)
