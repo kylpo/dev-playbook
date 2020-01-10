@@ -20,19 +20,21 @@ Also read up on Apple's official doc on all this: https://developer.apple.com/li
 
 ![](../assets/2018-12-26-15-52-45.png)
 
-# MV*
+# MV\*
+
 model fairly dumb, view fairly dumb. Something in the middle.
 
-# Thoughts on MV*
+# Thoughts on MV\*
+
 In general, I very much like rules and guidelines. They usually make decisions ahead of time, so you can spend your decision energy on other things.
 
 Probably better to think of it is Representation/Presentation, data/state, and events (wiring to init, then communication, user actions, and system operations to make dynamic)?
 
-"Some of us apply the MVC (Model-View-Controller) pattern a bit too strictly. It's fine to create classes that are not models, views, or controllers. Really."  - Bart Jacobs
+"Some of us apply the MVC (Model-View-Controller) pattern a bit too strictly. It's fine to create classes that are not models, views, or controllers. Really." - Bart Jacobs
 
-However, I think MV*/MVC has been taken too strictly. When writing code, if you are agonizing about whether this code belongs in the M, the V, or the C, then I think it is only hurting you. Especially because MVC doesn't cover all code responsibilites. What about helper **functions** that just convert some data to another format, where does that belong? What about a router and DI? Where do they fit?
+However, I think MV\*/MVC has been taken too strictly. When writing code, if you are agonizing about whether this code belongs in the M, the V, or the C, then I think it is only hurting you. Especially because MVC doesn't cover all code responsibilites. What about helper **functions** that just convert some data to another format, where does that belong? What about a router and DI? Where do they fit?
 
-MV* doesn't answer all questions: what about routing/DI? What handles device type/screen? (visual variation in View, context variation in controller, maybe). Looks like I said it before:
+MV\* doesn't answer all questions: what about routing/DI? What handles device type/screen? (visual variation in View, context variation in controller, maybe). Looks like I said it before:
 
 > MVC doesn't structure your whole application, only the user-facing portion.
 
@@ -40,13 +42,17 @@ And see here on [this](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93
 
 > MVP is a **user interface** architectural pattern engineered to facilitate automated unit testing and improve the separation of concerns in presentation logic:
 
-I think MV* is a good thing to keep in mind when thinking about separating responsibilities and single responsibility principle, but I don't agree with any real firm implementations. Especially because I think MVC applies more to view (as components), with everything else fitting outside of MVC.
+I think MV\* is a good thing to keep in mind when thinking about separating responsibilities and single responsibility principle, but I don't agree with any real firm implementations. Especially because I think MVC applies more to view (as components), with everything else fitting outside of MVC.
 
 Instead, think about the scope of code.
 
 This is one reason I like thinking in components, because they may have any amount of M, V, and/or C. Either the code is local and only concerned about this direct component or its children, or it is shared outside the scope of this component and should be considered shared.
 
-Outside of components and scope, testability is a consideration (and a driving reason to think in MV*).
+Outside of components and scope, testability is a consideration (and a driving reason to think in MV\*).
+
+<img src="assets/2020-01-10-10-47-57.png" width="50%"/><img src="assets/2020-01-10-10-48-19.png" width="50%"/>
+
+<img src="assets/2020-01-10-10-48-43.png" width="50%"/><img src="assets/2020-01-10-10-48-58.png" width="50%"/>
 
 ---
 
